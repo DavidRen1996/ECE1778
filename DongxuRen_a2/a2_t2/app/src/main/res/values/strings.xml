@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">A1</string>
+    <string name="heading_login">Login to Account</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button_text">Login</string>
+    <string name="register_button_text">Register</string>
+    <string name="or_text">or</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="set_second_menu">set_second</string>
+    <string name="set_display_picture_hint">Set Display Picture</string>
+    <string name="confirm_password_second">Confirm Password</string>
+    <string name="username_second">UserName</string>
+    <string name="a_short_bio_second">A Short Bio</string>
+    <string name="signup_button_text">signup</string>
+    <string name="user_photo">user photo</string>
+    <string name="text_default">textview</string>
+    <string name="textview4">TextView</string>
+    <string name="signout">Button</string>
+    <string name="signout_button">signout</string>
+    <string name="camera">Camera</string>
+    <string name="show">show</string>
+    <string name="get">get</string>
+    <string name="button">Button</string>
+</resources>

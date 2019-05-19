@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">A3_t1</string>
+    <string name="password">Password</string>
+    <string name="or">or</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="login_to_accout">Login To Accout</string>
+    <string name="name">Name</string>
+    <string name="user_name">User Name</string>
+    <string name="sign_in">sign in</string>
+    <string name="email_register">Email</string>
+    <string name="user_bio_register">User bio</string>
+    <string name="cancel">Cancel</string>
+    <string name="camera">Camera</string>
+    <string name="pos">post</string>
+    <string name="text">TextView</string>
+    <string name="user">user</string>
+</resources>
